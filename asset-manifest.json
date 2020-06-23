@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Logistic-Support-Calculator/static/css/main.b555336a.chunk.css",
-    "main.js": "/Logistic-Support-Calculator/static/js/main.f0787b88.chunk.js",
-    "main.js.map": "/Logistic-Support-Calculator/static/js/main.f0787b88.chunk.js.map",
-    "runtime-main.js": "/Logistic-Support-Calculator/static/js/runtime-main.4cca4e04.js",
-    "runtime-main.js.map": "/Logistic-Support-Calculator/static/js/runtime-main.4cca4e04.js.map",
-    "static/css/2.7ef9b196.chunk.css": "/Logistic-Support-Calculator/static/css/2.7ef9b196.chunk.css",
-    "static/js/2.c1652e37.chunk.js": "/Logistic-Support-Calculator/static/js/2.c1652e37.chunk.js",
-    "static/js/2.c1652e37.chunk.js.map": "/Logistic-Support-Calculator/static/js/2.c1652e37.chunk.js.map",
-    "index.html": "/Logistic-Support-Calculator/index.html",
-    "precache-manifest.706bc6c06c4e5e7682a29b94bdfa2428.js": "/Logistic-Support-Calculator/precache-manifest.706bc6c06c4e5e7682a29b94bdfa2428.js",
-    "service-worker.js": "/Logistic-Support-Calculator/service-worker.js",
-    "static/css/2.7ef9b196.chunk.css.map": "/Logistic-Support-Calculator/static/css/2.7ef9b196.chunk.css.map",
-    "static/css/main.b555336a.chunk.css.map": "/Logistic-Support-Calculator/static/css/main.b555336a.chunk.css.map",
-    "static/js/2.c1652e37.chunk.js.LICENSE.txt": "/Logistic-Support-Calculator/static/js/2.c1652e37.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Logistic-Support-Calculator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/FGO-Calculator/static/css/main.b555336a.chunk.css",
+    "main.js": "/FGO-Calculator/static/js/main.6cc2d723.chunk.js",
+    "main.js.map": "/FGO-Calculator/static/js/main.6cc2d723.chunk.js.map",
+    "runtime-main.js": "/FGO-Calculator/static/js/runtime-main.721b11aa.js",
+    "runtime-main.js.map": "/FGO-Calculator/static/js/runtime-main.721b11aa.js.map",
+    "static/css/2.7ef9b196.chunk.css": "/FGO-Calculator/static/css/2.7ef9b196.chunk.css",
+    "static/js/2.c1652e37.chunk.js": "/FGO-Calculator/static/js/2.c1652e37.chunk.js",
+    "static/js/2.c1652e37.chunk.js.map": "/FGO-Calculator/static/js/2.c1652e37.chunk.js.map",
+    "index.html": "/FGO-Calculator/index.html",
+    "precache-manifest.fe8e585c6df8818654a5fa864cf28f8f.js": "/FGO-Calculator/precache-manifest.fe8e585c6df8818654a5fa864cf28f8f.js",
+    "service-worker.js": "/FGO-Calculator/service-worker.js",
+    "static/css/2.7ef9b196.chunk.css.map": "/FGO-Calculator/static/css/2.7ef9b196.chunk.css.map",
+    "static/css/main.b555336a.chunk.css.map": "/FGO-Calculator/static/css/main.b555336a.chunk.css.map",
+    "static/js/2.c1652e37.chunk.js.LICENSE.txt": "/FGO-Calculator/static/js/2.c1652e37.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/FGO-Calculator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cca4e04.js",
+    "static/js/runtime-main.721b11aa.js",
     "static/css/2.7ef9b196.chunk.css",
     "static/js/2.c1652e37.chunk.js",
     "static/css/main.b555336a.chunk.css",
-    "static/js/main.f0787b88.chunk.js"
+    "static/js/main.6cc2d723.chunk.js"
   ]
 }
