@@ -558,7 +558,7 @@ function Calculator(props){
 
 function App(){
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <div className="App">
         <Switch>
           <Route exact path="/">
