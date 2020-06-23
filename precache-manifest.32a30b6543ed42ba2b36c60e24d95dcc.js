@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42d348faaaf443f76b53149c530e2261",
+    "revision": "4141b88172e0a79911b0245ce83a0822",
     "url": "/FGO-Calculator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FGO-Calculator/static/css/2.7ef9b196.chunk.css"
   },
   {
-    "revision": "5721d463df1953e6db97",
-    "url": "/FGO-Calculator/static/css/main.b555336a.chunk.css"
+    "revision": "a61714e19c0094970e4a",
+    "url": "/FGO-Calculator/static/css/main.50c1cb98.chunk.css"
   },
   {
     "revision": "8dc69a30c90fbadb7bc7",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FGO-Calculator/static/js/2.c1652e37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5721d463df1953e6db97",
-    "url": "/FGO-Calculator/static/js/main.4eb68a41.chunk.js"
+    "revision": "a61714e19c0094970e4a",
+    "url": "/FGO-Calculator/static/js/main.3d047cb5.chunk.js"
   },
   {
     "revision": "7216b49f270e7dd02c6b",

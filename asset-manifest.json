@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FGO-Calculator/static/css/main.b555336a.chunk.css",
-    "main.js": "/FGO-Calculator/static/js/main.4eb68a41.chunk.js",
-    "main.js.map": "/FGO-Calculator/static/js/main.4eb68a41.chunk.js.map",
+    "main.css": "/FGO-Calculator/static/css/main.50c1cb98.chunk.css",
+    "main.js": "/FGO-Calculator/static/js/main.3d047cb5.chunk.js",
+    "main.js.map": "/FGO-Calculator/static/js/main.3d047cb5.chunk.js.map",
     "runtime-main.js": "/FGO-Calculator/static/js/runtime-main.721b11aa.js",
     "runtime-main.js.map": "/FGO-Calculator/static/js/runtime-main.721b11aa.js.map",
     "static/css/2.7ef9b196.chunk.css": "/FGO-Calculator/static/css/2.7ef9b196.chunk.css",
     "static/js/2.c1652e37.chunk.js": "/FGO-Calculator/static/js/2.c1652e37.chunk.js",
     "static/js/2.c1652e37.chunk.js.map": "/FGO-Calculator/static/js/2.c1652e37.chunk.js.map",
     "index.html": "/FGO-Calculator/index.html",
-    "precache-manifest.e361764d108ce4b64f142de7c7b92a06.js": "/FGO-Calculator/precache-manifest.e361764d108ce4b64f142de7c7b92a06.js",
+    "precache-manifest.32a30b6543ed42ba2b36c60e24d95dcc.js": "/FGO-Calculator/precache-manifest.32a30b6543ed42ba2b36c60e24d95dcc.js",
     "service-worker.js": "/FGO-Calculator/service-worker.js",
     "static/css/2.7ef9b196.chunk.css.map": "/FGO-Calculator/static/css/2.7ef9b196.chunk.css.map",
-    "static/css/main.b555336a.chunk.css.map": "/FGO-Calculator/static/css/main.b555336a.chunk.css.map",
+    "static/css/main.50c1cb98.chunk.css.map": "/FGO-Calculator/static/css/main.50c1cb98.chunk.css.map",
     "static/js/2.c1652e37.chunk.js.LICENSE.txt": "/FGO-Calculator/static/js/2.c1652e37.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/FGO-Calculator/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.721b11aa.js",
     "static/css/2.7ef9b196.chunk.css",
     "static/js/2.c1652e37.chunk.js",
-    "static/css/main.b555336a.chunk.css",
-    "static/js/main.4eb68a41.chunk.js"
+    "static/css/main.50c1cb98.chunk.css",
+    "static/js/main.3d047cb5.chunk.js"
   ]
 }
