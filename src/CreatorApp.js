@@ -197,6 +197,7 @@ function CreatorApp(props){
 					<Col>
 						<Form.Control
 							type="text"
+							className="activity-name"
 							value={name}
 							onChange={handleNameChange}/>
 					</Col>
@@ -209,6 +210,7 @@ function CreatorApp(props){
 						<Form.Control
 							as="input"
 							type="datetime-local"
+							className="date"
 							value={datetime}
 							onChange={handleDatetimeChange}
 							/>

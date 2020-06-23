@@ -42,6 +42,16 @@ input {
   margin-right: 5px !important;
 }
 
+input.date {
+  width: 300px  !important;
+  margin-right: 5px !important;
+}
+
+input.activity-name {
+  width: 300px  !important;
+  margin-right: 5px !important;
+}
+
 .reward-table {
   overflow-x:auto !important;
   width: 670px !important;
