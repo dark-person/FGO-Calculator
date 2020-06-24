@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FGO-Calculator/precache-manifest.32a30b6543ed42ba2b36c60e24d95dcc.js"
+  "/FGO-Calculator/precache-manifest.91a2000d06147a781607140f5b4da4ef.js"
 );
 
 self.addEventListener('message', (event) => {
